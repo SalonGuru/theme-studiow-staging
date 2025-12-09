@@ -58,7 +58,7 @@
  /* GENERAL */
  body { background-color: #fff;  }
  body, button, input, select, textarea, .widget li, td, p, div.textwidget {font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 16px; line-height: 1.5; }
- main h1, main h2, main h3, main h4 { color:#000; font-weight:700; }
+ main h1, main h2, main h3, main h4 { color:#000; font-weight:700; font-family: "Montserrat", sans-serif !important;}
  main p, main em, main table, main ul, main li  { color:#000; font-weight:400; text-align: left;  }
  main h1 { text-align:center; margin-top: 3rem; letter-spacing: normal; font-size: 40px;  }
  main h2 { text-align:left; font-size: 30px; line-height: 1; }
