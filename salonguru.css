@@ -175,9 +175,8 @@
  .home .instagram-row h2 a {text-decoration:none;}
 
 /* FAQS */
-.faq-accordion-wrapper .question span {transform: translate(0%, -60%) rotate(-90deg);right: 0px !important;}
-.faq-accordion-wrapper h2 {font-size:23px !important;}
-
+.faq-accordion-wrapper .question span {transform: translate(0%, -70%) rotate(-90deg);right: 0px !important;}
+.faq-accordion-wrapper h2 {font-size:18px !important;}
 
  /* FOOTER */
  .site-footer {color:#fff;background:#000;}
