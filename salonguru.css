@@ -231,7 +231,7 @@ body article {width:100%;max-width:1200px;margin:0 auto!important;padding:30px;b
  /* CATLIST */
  .catlist .catlist-item {border-radius: 3px; }
  .catlist .catlist-item .catlist-text p {font-size: 14px; }
- .catlist .catlist-item .catlist-image {margin: 1em 0;}
+ .catlist .catlist-item .catlist-image {margin: 0;}
  .catlist .catlist-item .catlist-image img {position: relative;top: initial;left: initial;transform: none;height: 250px;object-fit: cover;}
 .entry-content .catlist h2 {font-size:26px;}
  
