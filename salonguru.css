@@ -19,8 +19,8 @@
  .home .banner-row .w-bg h3 {color: #000; }
 
  .page-id-27855 .grey-row {background:#828282;margin: 0 0 50px 0; padding: 100px !important;}
-.page-id-27855 .reviews-row, .page-id-27855 .new-client-text, .page-id-27855 .row-2, .page-id-27855 .row-3, .page-id-27855 .row-4 {padding:0px!important;margin: 0 0 50px 0 !important;}
-
+.page-id-27855 .reviews-row, .page-id-27855 .new-client-text, .page-id-27855 .row-2, .page-id-27855 .row-3, .page-id-27855 .row-4 {margin-bottom:50px !important; padding: 0px !important;}
+.page-id-27855 .row-3 {margin-top:50px !important;}
  .site-footer [class^="widget"] * {color:#fff !important; text-align:left !important;}
     
 body main {margin:0px;padding:30px;background:#ededed;}
